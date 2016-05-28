@@ -1,0 +1,14 @@
+{
+    "name": "kamva/sendinblue-api-php",
+    "description": "SendinBlue API Wrapper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Behzad Shabani",
+            "email": "behzad.shabani@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
