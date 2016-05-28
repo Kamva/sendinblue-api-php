@@ -8,6 +8,11 @@
             "email": "behzad.shabani@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Kamva\\SendinBlue\\": "src/"
+        }
+    },
     "require": {
         "guzzlehttp/guzzle": "~6.0"
     }
